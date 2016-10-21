@@ -2,4 +2,6 @@
     <string name="app_name">AgriBot</string>
     <string name="etGreet">Your query will be displayed here...</string>
     <string name="tvReplyGreet">The reply will appear here...</string>
+    <string name="promptLocation">Which location?</string>
+
 </resources>
